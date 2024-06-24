@@ -29,4 +29,4 @@ Simulating human knowledge and decision making with computers.
 
 ### Data Science infographic
 
-![Data Science Infographic]('../00-resources/Part_1_Intro_to_Data_and_Data_Science/S2_L8/365-DataScience.png')
+![Data Science Infographic]('./00-resources/Part_1_Intro_to_Data_and_Data_Science/S2_L8/365-DataScience.png')
