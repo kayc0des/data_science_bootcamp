@@ -38,4 +38,39 @@ The probability we get after conducting experiments are called `experimental pro
 
 ### Experimental Probability Definition
 
-    - `P(A) = successful trials / all trials`
+  - `P(A) = successful trials / all trials`
+
+### Expected Values Definition
+
+E(A) is the outcome we expect to occur when we run an experiment.
+
+#### Categorical outcomes
+
+  - `E(A) = P(A) x n`
+
+where:
+  - P(A) is the theoretical probability
+  - n is the number of trials
+  - E(A) is the expected value
+
+**Example:** Drawing a spade from a deck of cards in 20 trials. If we evalue this probability we have 
+
+  - `E(A) = 0.25 x 20 = 5`
+
+In this case we expect a spade at least five times if we run this experiment. That is the expected value which might differ from reality as we could get a spade more, less number of times or not at all.
+
+#### Numerical Outcomes
+
+  - Sample Space = A, B and C
+  - Expected Value = A.P(A) + B.P(B) + C.P(C)
+
+**Example:** Hitting a target with a bow and arrow, the target has three zones. Zone A (outermost) is worth 10 points, Zone B is worth 20 Points and Zone C (target) is worth 100 points. The probability of hitting each Zone is as follows. 
+
+  - `A` -> 0.5
+  - `B` -> 0.4
+  - `C` -> 0.1
+
+Thus:
+  - `E(X) = (0.5 x 10) + (0.4 x 20) + (0.1 x 100) = 23`
+
+We can use expected values to make predictions about the future based on past data.
