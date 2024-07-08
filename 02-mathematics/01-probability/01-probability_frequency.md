@@ -2,5 +2,5 @@
 
 The probability frequency distribution a collection of the probabilities for each possible outcome.
 
-[Probability Frequency](assets/prob_freq.png)
+![Probability Frequency](assets/prob_freq.png)
 
